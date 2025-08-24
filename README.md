@@ -1,4 +1,4 @@
-# samara couto👩🏻‍💻 
+# Samara Couto👩🏻‍💻 
 
 **`📚Estudante de Ciência da Computação`**
 
@@ -95,7 +95,7 @@ Me chamo Samara Silva Couto, Tenho 18 anos e sempre fui fascinada por tecnologia
 <br/>
 <br/>
 
-  ## 
+  ### 📞 Redes Socias e Contato
  
 <div> 
   <a href="https://www.instagram.com/_samaracouto?igsh=OWIxdWprM2t0N2Vk&utm_source=qr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
