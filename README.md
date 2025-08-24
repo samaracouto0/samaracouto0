@@ -2,7 +2,7 @@
 
 **`📚Estudante de Ciência da Computação`**
 
-Me Chamo Samara Silva Couto, Tenho 18 anos e sempre fui fascinada por tecnologia e pelo impacto que ela pode gerar no dia a dia das pessoas. Atualmente curso Ciência da Computação na PUC Goiás, , buscando aprender e aplicar conhecimentos em diferentes áreas da programação. Me interesso por diferentes áreas, como desenvolvimento web e inteligência artificial, evoluindo como desenvolvedora e colaborando em projetos que tragam soluções criativas e eficientes.
+Me Chamo Samara Silva Couto, Tenho 18 anos e sempre fui fascinada por tecnologia e pelo impacto que ela pode gerar no dia a dia das pessoas. Atualmente curso Ciência da Computação na PUC Goiás, buscando aprender e aplicar conhecimentos em diferentes áreas da programação. Me interesso muito por diferentes áreas, como desenvolvimento web e inteligência artificial, quero ir evoluindo como desenvolvedora e colaborando em projetos que tragam soluções criativas e eficientes.
 <p align="left">
       <a href="https://github.com/samaracouto0?tab=repositories&sort=stargazers">
         <img 
